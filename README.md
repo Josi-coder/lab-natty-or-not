@@ -1,7 +1,7 @@
 # Um Refúgio nas Montanhas – Propaganda criada com IA 🌄
 
 ## 📒 Descrição
-Este projeto apresenta um vídeo de propaganda para YouTube ou TV sobre um destino único com vista para montanhas e pôr do sol. O vídeo foi planejado para ser cativante e realista, utilizando ferramentas de IA generativas para roteirização, avatar e cenário virtuais.
+Este projeto apresenta um vídeo de propaganda para YouTube ou TV de hospedagem em um destino único com vista para montanhas e pôr do sol. O vídeo foi planejado para ser cativante e realista, utilizando ferramentas de IA generativas para roteirização, avatar e cenário virtuais.
 
 ## 🤖 Tecnologias Utilizadas
 ChatGPT: Para criação e revisão do roteiro.

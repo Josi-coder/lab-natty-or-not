@@ -5,6 +5,7 @@ Este projeto apresenta um vídeo de propaganda para YouTube ou TV sobre um desti
 
 ## 🤖 Tecnologias Utilizadas
 ChatGPT: Para criação e revisão do roteiro.
+
 D-ID: Para síntese de voz, avatar digital e fundo virtual.
 
 ## 🧐 Processo de Criação

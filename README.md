@@ -1,20 +1,19 @@
-
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Um Refúgio nas Montanhas – Propaganda criada com IA
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Este projeto apresenta um vídeo de propaganda para YouTube ou TV sobre um destino único com vista para montanhas e pôr do sol. O vídeo foi planejado para ser cativante e realista, utilizando ferramentas de IA generativas para roteirização, avatar e cenário virtuais.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+ChatGPT: Para criação e revisão do roteiro.
+D-ID: Para síntese de voz, avatar digital e fundo virtual.
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Comecei criando uma conta no D-ID e explorando as opções para criar o vídeo, testando diferentes avatares e vozes até encontrar a combinação ideal. Ao ver os possíveis fundos virtuais disponíveis, me deparei com uma imagem linda de montanhas ao pôr do sol, que decidi usar. Inspirada por essa paisagem, surgiu a ideia de criar um vídeo no estilo de propaganda para YouTube ou TV. A partir daí, usei o ChatGPT para redigir o roteiro. Primeiro fiz os prompts em inglês, depois pedi uma versão em português. Após alguns textos gerados, combinei diferentes respostas para chegar ao roteiro final que foi usado no vídeo.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+O vídeo é um convite acolhedor que transporta o espectador para um refúgio dos sonhos, destacando a beleza das montanhas e o encanto de um pôr do sol inesquecível. 
+
+LINK PARA O VÍDEO AQUI
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-
+O resultado superou minhas expectativas, com um nível de qualidade muito bom para uma primeira experiência. No entanto, acredito que o lip sync ainda poderia ser aprimorado para parecer mais fluido e realista. Foi um ótimo exercício para explorar as possibilidades das IAs generativas!

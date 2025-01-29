@@ -14,7 +14,7 @@ Comecei criando uma conta no D-ID e explorando as opções para criar o vídeo, 
 ## 🚀 Resultados
 O vídeo é um convite acolhedor que transporta o espectador para um refúgio dos sonhos, destacando a beleza das montanhas e o encanto de um pôr do sol inesquecível. 
 
-[LINK PARA O VÍDEO AQUI](https://studio.d-id.com/share?id=8e422486f0a96d28e74c6c1c5115dc4d&utm_source=copy)
+[ASSISTA AQUI](https://studio.d-id.com/share?id=8e422486f0a96d28e74c6c1c5115dc4d&utm_source=copy)
 
 ## 💭 Reflexão 
 O resultado superou minhas expectativas, com um nível de qualidade muito bom para uma primeira experiência. No entanto, acredito que o lip sync ainda poderia ser aprimorado para parecer mais fluido e realista. Foi um ótimo exercício para explorar as possibilidades das IAs generativas!
